@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/sashadudkina/Documents/GitHub/NextJS_Auth/src/app/layout\":[\"static/media/5e1bda47f81ec89a-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
